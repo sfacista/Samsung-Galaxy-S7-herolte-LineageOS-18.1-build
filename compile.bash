@@ -51,7 +51,7 @@ mkdir -p vendor/samsung
 
 # Option 1: clone directly if you have the correct repository
 git clone -b lineage-18.1 \
-    <THE_MUPPETS_VENDOR_REPOSITORY> \
+    https://github.com/TheMuppets/proprietary_vendor_samsung.git \
     vendor/samsung/universal8890-common
 
 # Option 2: unpack a downloaded vendor tree

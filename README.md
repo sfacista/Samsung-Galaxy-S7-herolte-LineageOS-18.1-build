@@ -5,8 +5,12 @@ I wanted to rebuild LineageOS on an old Samsung Galaxy S7. I found that some of 
 
 This guid isn't for unlocking, bootloaders, or any of that jazz. It's just for getting LineageOS compiled for the phone. I hope it helps you.
 
-## More official documentation
+## Documentation Help
+### LineageOS page with lots of helpful details
 https://wiki.lineageos.org/devices/herolte/build/
+
+### Link to TheMuppets - you may need this:
+https://github.com/TheMuppets
 
 ## How to make it go:
 **You might want to ensure you have sufficient hardware resources to do this using the LineageOS wiki link above if you are using your own hardware**
